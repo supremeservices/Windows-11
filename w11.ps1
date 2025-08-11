@@ -1,3 +1,5 @@
+$dir = 'C:\temp\win11' 
+
 mkdir $dir
 
 $webClient = New-Object System.Net.WebClient
